@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=300&section=header&text=Suyeon's%20Github&fontSize=50&fontAlignY=42&reversal=true)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=200&section=header&text=Suyeon's%20Github&fontSize=30&fontAlignY=35&reversal=true)
 
 
 
@@ -33,9 +33,4 @@
 
 
 
-
-
-![Suyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=suyeonKwak&theme=solarized-light&show_icons=true)
-
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=8714CC&height=300&reversal=true)
 
