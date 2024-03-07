@@ -1,9 +1,8 @@
 
-
 <h3 align="center">✉️ Contect Me ✉️</h3>
 
 <p align="center">
- <a href="matilto:sykwak1110@gmail.com">
+ <a href="matilto:syrhkr00@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
  </a>&nbsp 
  <a href="https://instagram.com/ssu_y11?igshid=OGQ5ZDc2ODk2ZA==">
